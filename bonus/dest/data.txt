@@ -1,4 +1,0 @@
-temperatures
-10
-25
-22
